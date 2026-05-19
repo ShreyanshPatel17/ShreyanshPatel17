@@ -1,10 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shreyansh+Patel" alt="Typing SVG" />
-</h1>
-
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Shreyansh%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Enthusiast%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning%20Practitioner&descAlignY=58&descAlign=50"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Shreyansh%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descAlign=50&desc=AI%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Practitioner"
+  />
 </p>
 
 ---
@@ -87,7 +85,7 @@
 📌 AI-powered application that summarizes YouTube video transcripts into concise insights using NLP techniques.
 
 ### ⚙️ Tech Stack
-`Python` `NLP` `Transformers` `YouTube API`
+`Python` `NLP` `Transcripts` `YouTube API`
 
 ---
 
@@ -102,10 +100,10 @@
 # 📜 Certifications
 
 🎓 Data Analytics Masters – Udemy  
-🔗 [Add Certificate Link Here](https://www.udemy.com/certificate/UC-239f4d92-de16-4fd1-a6ac-f0908d1ecada/)
+🔗 [Certificate Link](https://www.udemy.com/certificate/UC-239f4d92-de16-4fd1-a6ac-f0908d1ecada/)
 
 🎓 PL-300: Microsoft Power BI Data Analyst Prep – Udemy  
-🔗 [Add Certificate Link Here](https://www.udemy.com/certificate/UC-4d120b4f-3152-4713-a72e-9a6305d967b3/)
+🔗 [Certificate Link](https://www.udemy.com/certificate/UC-4d120b4f-3152-4713-a72e-9a6305d967b3/)
 
 ---
 
