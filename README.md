@@ -65,7 +65,7 @@
 
 # 🚀 Projects
 
-## 💰 AI-Powered Personal Finance Advisor
+## 💰[AI-Powered Personal Finance Advisor](https://github.com/ShreyanshPatel17/finance-advisor)
 📌 Intelligent financial advisory system integrating Machine Learning and Generative AI for smart financial recommendations.
 
 ### ⚙️ Tech Stack
@@ -73,15 +73,17 @@
 
 ---
 
-## 📉 Telecom Customer Churn Prediction
+## 📉[Telecom Customer Churn Prediction](https://github.com/ShreyanshPatel17/Telecom-Customer-Churn-Prediction)
 📌 Machine Learning system to predict telecom customer churn using customer behavior data with 77% prediction accuracy.
 
 ### ⚙️ Tech Stack
 `Python` `Scikit-learn` `Streamlit` `Matplotlib` `Seaborn`
 
+[Live Demo](https://telecom-customer-churn-prediction-shreyansh.streamlit.app/)
+
 ---
 
-## 🎥 YouTube Video Summarizer
+## 🎥[YouTube Video Summarizer](https://github.com/ShreyanshPatel17/YouTube-Video-Summarizer)
 📌 AI-powered application that summarizes YouTube video transcripts into concise insights using NLP techniques.
 
 ### ⚙️ Tech Stack
@@ -89,7 +91,7 @@
 
 ---
 
-## 📊 Power BI Sales Dashboard
+## 📊[Power BI Sales Dashboard](https://github.com/ShreyanshPatel17/Power-BI)
 📌 Interactive dashboard for analyzing sales performance, KPIs, and customer insights using Power BI.
 
 ### ⚙️ Tech Stack
